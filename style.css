@@ -1,0 +1,4 @@
+#sherk {
+    width: 250px;
+    transform: translateX(100%) rotateZ(180deg) scale(2);
+}
